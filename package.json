@@ -1,0 +1,26 @@
+{
+    "name": "madoko",
+    "displayName": "madoko",
+    "description": "madoko",
+    "version": "0.0.1",
+    "publisher": "madoko",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "madoko",
+            "aliases": ["Madoko", "madoko"],
+            "extensions": [".mdk",".md",".madoko",".markdown"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "madoko",
+            "scopeName": "source.madoko",
+            "path": "./syntaxes/madoko.tmLanguage"
+        }]
+    }
+}
