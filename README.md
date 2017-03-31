@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # madoko README
 
 This is the README for your extension "madoko". After writing up a brief description, we recommend including the following sections.
@@ -63,3 +64,6 @@ Added features X, Y, and Z.
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+=======
+# vscodemadoko
+>>>>>>> 782c155ff85b88d22f35c822c226225bcf0c5d4a
